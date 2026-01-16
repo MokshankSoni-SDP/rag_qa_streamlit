@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+numpy
+mysql-connector-python
+python-multipart
+streamlit
+requests
+python-dotenv
+torch
