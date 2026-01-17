@@ -1,3 +1,5 @@
+venv/
 .env
-certs/
-venv
+__pycache__/
+*.pyc
+*.whl
